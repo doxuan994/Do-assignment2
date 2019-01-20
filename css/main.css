@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Gentium+Book+Basic');
+
+body {
+    font-family: 'Gentium Book Basic', serif;
+}
+
+a {
+    text-decoration: none;
+    color: #222;
+}
+
+/* Footer */
+.footer-wrapper span {
+    float: right;
+}
